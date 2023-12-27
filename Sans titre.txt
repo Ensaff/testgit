@@ -1,0 +1,11 @@
+
+https://www.atlassian.com/git/tutorials/what-is-git
+
+git init : initialisez
+git add : ajouter les fichies "staging area"
+git commit : enregistrer les modifications
+git status
+
+git branch : créer une branche
+git checkout : switch
+git clone : télécharger le projet
